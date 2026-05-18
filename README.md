@@ -1,7 +1,7 @@
 # Hi there! I'm Nicolas Sugai <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5Y2Z5YW14N3p5M3N5Y2Z5YW14N3p5M3N5Y2Z5YW14N3p5/preview.gif" width="30px">
 
 <p align="center">
-  <a href="https://linkedin.com/in/nicolassugai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://linkedin.com/in/nicolassugai](https://www.linkedin.com/in/nicolas-sugai/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/NicolasSugai/fateczl-academic-exercises"><img src="https://img.shields.io/badge/Academic_Exercises-🔥-blueviolet?style=for-the-badge" alt="Academic Repo"></a>
 </p>
 
@@ -62,12 +62,3 @@
   * **🛠️ Infra & Git:** The Complete Git Guide — *Udemy* \| Microsoft Essentials — *Udemy*
 
 </details>
-
----
-
-### 📊 GitHub Stats / Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasSugai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Nicolas's GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSugai&layout=compact&theme=dracula" alt="Top Languages" height="160px"/>
-</p>
