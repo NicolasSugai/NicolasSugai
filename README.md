@@ -1,90 +1,73 @@
-# 🐾 Hi there! I'm Nicolas Sugai
+# Hi there! I'm Nicolas Sugai <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5Y2Z5YW14N3p5M3N5Y2Z5YW14N3p5M3N5Y2Z5YW14N3p5/preview.gif" width="30px">
 
-<!-- VERSÃO EM PORTUGUÊS -->
+<p align="center">
+  <a href="https://linkedin.com/in/nicolassugai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/NicolasSugai/fateczl-academic-exercises"><img src="https://img.shields.io/badge/Academic_Exercises-🔥-blueviolet?style=for-the-badge" alt="Academic Repo"></a>
+</p>
+
+---
+
+<!-- PORTUGUÊS -->
 <details>
   <summary>🇧🇷 <b>Clique aqui para a versão em Português</b></summary>
   <br>
 
-  Estudante de Análise e Desenvolvimento de Sistemas na FATEC Zona Leste, focado em desenvolvimento de software, segurança e análise de dados. Busco construir soluções limpas, bem documentadas e expandir constantemente meus conhecimentos.
+  Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC Zona Leste, atualmente no **2º semestre**. Focado em engenharia de software, segurança web e análise de dados.
 
-  ## 🎓 Formação Acadêmica e Portfólio
+  ### 🛠️ Tecnologias & Conhecimentos
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  * **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**
-    * FATEC Zona Leste | 2º de 6 Semestres (Em andamento)
-    * *Repositório Acadêmico:* Acompanhe minha evolução de código, laboratórios e listas de exercícios estruturadas em [fateczl-academic-exercises](https://github.com/NicolasSugai/fateczl-academic-exercises).
-
-  ## 🛠️ Tecnologias e Conhecimentos
-
-  ### 💻 Linguagens e Web
-  * **Backend & Lógica:** Java, Python
-  * **Desenvolvimento Web:** JavaScript, HTML5, CSS3
-
-  ### ⚙️ Sistemas e Ferramentas
-  * **Sistemas Corporativos:** Conhecimento prático em sistemas SAP-ERP
-  * **Controle de Versão:** Arquitetura Git & GitHub
-
-  ## 📜 Certificações e Cursos Especializados
-
-  ### 🔒 Cibersegurança e Performance
-  * **Web Hacking: Teste de Invasão em Sites e Aplicações Web** — Udemy
-  * **The Complete Git Guide: Understand and master Git and GitHub** — Udemy
-
-  ### 🌐 Desenvolvimento e Ciência de Dados
-  * **Desenvolvimento Web Completo (20 Cursos + 20 Projetos)** — Udemy
-  * **Formação Cientista de Dados: O Curso Completo 2026** — Udemy
-  * **Lógica de Programação** — Escola Conquer
-
-  ### 💼 Produtividade
-  * **Pacote Office: Microsoft Essentials** — Udemy
+  ### 📜 Certificações & Cursos
+  
+  * **🔒 Cibersegurança:** Web Hacking: Teste de Invasão em Sites e Aplicações Web — *Udemy*
+  * **📊 Data Science:** Formação Cientista de Dados: O Curso Completo — *Udemy*
+  * **🌐 Dev Web:** Desenvolvimento Web Completo (20 Cursos + 20 Projetos) — *Udemy*
+  * **🧠 Lógica:** Lógica de Programação — *Escola Conquer*
+  * **🛠️ Infra & Git:** The Complete Git Guide — *Udemy* \| Pacote Office — *Udemy*
 
 </details>
 
 ---
 
-<!-- ENGLISH VERSION -->
+<!-- ENGLISH -->
 <details open>
   <summary>🇺🇸 <b>Click here for the English version</b></summary>
   <br>
 
-  Analysis and Systems Development student at FATEC Zona Leste, focused on software development, security, and data analysis. Dedicated to building clean, well-documented solutions while continuously expanding my technical skills.
+  Analysis and Systems Development student at FATEC Zona Leste, currently in the **2nd semester**. Focused on software engineering, web security, and data analysis.
 
-  ## 🎓 Education & Academic Portfolio
+  ### 🛠️ Tech Stack & Skills
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  * **Higher Degree in Analysis and Systems Development (ADS)**
-    * FATEC Zona Leste | 2nd of 6 Semesters (In Progress)
-    * *Academic Repository:* Track my code evolution, labs, and structured homework at [fateczl-academic-exercises](https://github.com/NicolasSugai/fateczl-academic-exercises).
-
-  ## 🛠️ Technical Tech Stack
-
-  ### 💻 Languages & Web Development
-  * **Backend & Logic:** Java, Python
-  * **Web Development:** JavaScript, HTML5, CSS3
-
-  ### ⚙️ Systems & Tools
-  * **Enterprise Systems:** Practical experience with SAP-ERP systems
-  * **Version Control:** Git & GitHub architecture
-
-  ## 📜 Certifications & Specialized Courses
-
-  ### 🔒 Cybersecurity & Performance
-  * **Web Hacking: Teste de Invasão em Sites e Aplicações Web** — Udemy
-  * **The Complete Git Guide: Understand and master Git and GitHub** — Udemy
-
-  ### 🌐 Development & Data Science
-  * **Desenvolvimento Web Completo (20 Courses + 20 Projects)** — Udemy
-  * **Formação Cientista de Dados: O Curso Completo 2026** — Udemy
-  * **Lógica de Programação** — Escola Conquer
-
-  ### 💼 Productivity
-  * **Pacote Office: Microsoft Essentials** — Udemy
+  ### 📜 Certifications & Courses
+  
+  * **🔒 Cybersecurity:** Web Hacking: Website Pentesting & Exploitation — *Udemy*
+  * **📊 Data Science:** Data Scientist Formation: The Complete Course — *Udemy*
+  * **🌐 Web Dev:** Complete Web Development (20 Courses + 20 Projects) — *Udemy*
+  * **🧠 Logic:** Programming Logic — *Conquer School*
+  * **🛠️ Infra & Git:** The Complete Git Guide — *Udemy* \| Microsoft Essentials — *Udemy*
 
 </details>
 
 ---
 
-<br>
+### 📊 GitHub Stats / Estatísticas
 
-## 📬 Connect with Me / Conecte-se comigo
-
-* **LinkedIn:** [linkedin.com/in/nicolassugai](https://www.linkedin.com/in/nicolas-sugai/)
-* **GitHub Portfolio:** [github.com/NicolasSugai](https://github.com/NicolasSugai)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasSugai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Nicolas's GitHub Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSugai&layout=compact&theme=dracula" alt="Top Languages" height="160px"/>
+</p>
