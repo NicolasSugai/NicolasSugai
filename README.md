@@ -1,17 +1,5 @@
 # 🐾 Hi there! I'm Nicolas Sugai
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=300&auto=format&fit=crop" alt="Cat coding setup" width="300" style="border-radius: 10px; margin-bottom: 15px;"/>
-</p>
-
-<p align="center">
-  <i>"Code is like a cat: if you don't treat it right, it won't behave."</i> 🐈🐾
-</p>
-
-<br>
-
----
-
 <!-- VERSÃO EM PORTUGUÊS -->
 <details>
   <summary>🇧🇷 <b>Clique aqui para a versão em Português</b></summary>
