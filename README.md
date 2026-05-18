@@ -1,38 +1,102 @@
+# 🐾 Hi there! I'm Nicolas Sugai
 
-### Olá, eu sou o Nicolas Sugai🤓
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=300&auto=format&fit=crop" alt="Cat coding setup" width="300" style="border-radius: 10px; margin-bottom: 15px;"/>
+</p>
 
-Acompanhe minha jornada como programador!
+<p align="center">
+  <i>"Code is like a cat: if you don't treat it right, it won't behave."</i> 🐈🐾
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-sugai-3445b5264?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdAem91OxTSijmy54tacq%2Bg%3D%3D)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolass.devfs/#)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasSUgai&show_icons=true&theme=transparent)
-
-## Tecnologias que utilizo:
-
-<div style="display: inline-block;">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
-<div style="display: inline-block;">
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-<div style="display: inline-block;">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
-<div style="display: inline-block;">
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</div>
-<div style="display: inline-block;">
-  <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-<div style="display: inline-block;">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-<div style="display: inline-block;">
-  <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-</div>
 <br>
-<br>
-Sempre aprendendo, novos projetos em breve...
 
-"Exelência não é um ato, é um hábito"
+---
+
+<!-- VERSÃO EM PORTUGUÊS -->
+<details>
+  <summary>🇧🇷 <b>Clique aqui para a versão em Português</b></summary>
+  <br>
+
+  Estudante de Análise e Desenvolvimento de Sistemas na FATEC Zona Leste, focado em desenvolvimento de software, segurança e análise de dados. Busco construir soluções limpas, bem documentadas e expandir constantemente meus conhecimentos.
+
+  ## 🎓 Formação Acadêmica e Portfólio
+
+  * **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**
+    * FATEC Zona Leste | 2º de 6 Semestres (Em andamento)
+    * *Repositório Acadêmico:* Acompanhe minha evolução de código, laboratórios e listas de exercícios estruturadas em [fateczl-academic-exercises](https://github.com/NicolasSugai/fateczl-academic-exercises).
+
+  ## 🛠️ Tecnologias e Conhecimentos
+
+  ### 💻 Linguagens e Web
+  * **Backend & Lógica:** Java, Python
+  * **Desenvolvimento Web:** JavaScript, HTML5, CSS3
+
+  ### ⚙️ Sistemas e Ferramentas
+  * **Sistemas Corporativos:** Conhecimento prático em sistemas SAP-ERP
+  * **Controle de Versão:** Arquitetura Git & GitHub
+
+  ## 📜 Certificações e Cursos Especializados
+
+  ### 🔒 Cibersegurança e Performance
+  * **Web Hacking: Teste de Invasão em Sites e Aplicações Web** — Udemy
+  * **The Complete Git Guide: Understand and master Git and GitHub** — Udemy
+
+  ### 🌐 Desenvolvimento e Ciência de Dados
+  * **Desenvolvimento Web Completo (20 Cursos + 20 Projetos)** — Udemy
+  * **Formação Cientista de Dados: O Curso Completo 2026** — Udemy
+  * **Lógica de Programação** — Escola Conquer
+
+  ### 💼 Produtividade
+  * **Pacote Office: Microsoft Essentials** — Udemy
+
+</details>
+
+---
+
+<!-- ENGLISH VERSION -->
+<details open>
+  <summary>🇺🇸 <b>Click here for the English version</b></summary>
+  <br>
+
+  Analysis and Systems Development student at FATEC Zona Leste, focused on software development, security, and data analysis. Dedicated to building clean, well-documented solutions while continuously expanding my technical skills.
+
+  ## 🎓 Education & Academic Portfolio
+
+  * **Higher Degree in Analysis and Systems Development (ADS)**
+    * FATEC Zona Leste | 2nd of 6 Semesters (In Progress)
+    * *Academic Repository:* Track my code evolution, labs, and structured homework at [fateczl-academic-exercises](https://github.com/NicolasSugai/fateczl-academic-exercises).
+
+  ## 🛠️ Technical Tech Stack
+
+  ### 💻 Languages & Web Development
+  * **Backend & Logic:** Java, Python
+  * **Web Development:** JavaScript, HTML5, CSS3
+
+  ### ⚙️ Systems & Tools
+  * **Enterprise Systems:** Practical experience with SAP-ERP systems
+  * **Version Control:** Git & GitHub architecture
+
+  ## 📜 Certifications & Specialized Courses
+
+  ### 🔒 Cybersecurity & Performance
+  * **Web Hacking: Teste de Invasão em Sites e Aplicações Web** — Udemy
+  * **The Complete Git Guide: Understand and master Git and GitHub** — Udemy
+
+  ### 🌐 Development & Data Science
+  * **Desenvolvimento Web Completo (20 Courses + 20 Projects)** — Udemy
+  * **Formação Cientista de Dados: O Curso Completo 2026** — Udemy
+  * **Lógica de Programação** — Escola Conquer
+
+  ### 💼 Productivity
+  * **Pacote Office: Microsoft Essentials** — Udemy
+
+</details>
+
+---
+
+<br>
+
+## 📬 Connect with Me / Conecte-se comigo
+
+* **LinkedIn:** [linkedin.com/in/nicolassugai](https://www.linkedin.com/in/nicolas-sugai/)
+* **GitHub Portfolio:** [github.com/NicolasSugai](https://github.com/NicolasSugai)
